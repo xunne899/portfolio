@@ -2,7 +2,7 @@
 
 * A layout of my portfolio
 
-![Web_view](./images/mockView.png)
+![Web_view](images/mockView.png)
 
 ### Github Repository
 - [Portfolio](https://github.com/xunne899/portfolio) 
