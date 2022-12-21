@@ -8,7 +8,7 @@
 - [Portfolio](https://github.com/xunne899/portfolio) 
 
 ### Live Demo
--  [Live Demo](https://tech-talent-22.herokuapp.com/)
+-  [Live Demo](https://xunne899.github.io/portfolio/)
 
 # Summary
 A simple portfolio single-page
